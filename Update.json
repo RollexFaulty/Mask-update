@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": "• Improved stability\n• Fixed crash on login\n• Minor UI tweaks",
   "required": true
 }
